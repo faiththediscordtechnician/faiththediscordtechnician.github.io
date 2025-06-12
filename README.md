@@ -11,6 +11,7 @@ This is a bot I made in my free time originally for reputation, but I don't sell
 - Auto Payout to seller's wallet.
 - Auto payment detection, along with a limit to not use up too many API uses.
 - Buyers must confirm they got the valid product before a payout and if they don't a dispute starts.
+- 
 
 # Example of how a deal would go
 1.  Seller: Opens ticket.
